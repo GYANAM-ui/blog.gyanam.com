@@ -1,0 +1,22 @@
+.register-div {
+	padding: 5px;
+	background-color: #038dff;
+	text-align: left;
+
+}
+
+.info-div {
+	border-radius: 15px;
+	width: 60%;
+	padding: 10px;
+}
+
+.profile-img {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+}
+
+.info-div img {
+	border: 2px solid blue;
+}
